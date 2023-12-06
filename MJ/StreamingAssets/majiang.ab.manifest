@@ -1,9 +1,9 @@
 ManifestFileVersion: 0
-CRC: 3613499371
+CRC: 3434714987
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: 119e0ddb7c7ee57dcb7e19db8e24c810
+    Hash: 9e63478b363356cb871334d9ebd8f831
   TypeTreeHash:
     serializedVersion: 2
     Hash: 4ae62e6c0a89179d56b902eef18bb6e6
@@ -103,6 +103,7 @@ Assets:
 - Assets/MahjongRes/sound/level_protect.mp3
 - Assets/MahjongRes/sound/PuTongHua/g_laizigang.mp3
 - Assets/MahjongRes/sound/SiChuangHua/sc_girl_8tiao1.mp3
+- Assets/Script/mj_difx.png
 - Assets/MahjongRes/sound/SiChuangHua/sc_girl_dhuwin.mp3
 - Assets/MahjongRes/model/mj/Materials/mjFaceMat.mat
 - Assets/MahjongRes/sound/SiChuangHua/sc_boy_peng.mp3
